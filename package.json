@@ -1,0 +1,16 @@
+{
+  "name": "hw9b",
+  "version": "1.0.0",
+  "description": "IS 445/545 HW9b - Express web server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "body-parser": "^2.4.0",
+    "express": "^5.3.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
